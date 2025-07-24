@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/day6-exercise/day6-exercise.iml" filepath="$PROJECT_DIR$/day6-exercise/day6-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/day7-oop/day7-oop.iml" filepath="$PROJECT_DIR$/day7-oop/day7-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day8-api/day8-api.iml" filepath="$PROJECT_DIR$/day8-api/day8-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day9-ATM-system/day9-ATM-system.iml" filepath="$PROJECT_DIR$/day9-ATM-system/day9-ATM-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase.iml" filepath="$PROJECT_DIR$/javase.iml" />
     </modules>
   </component>
