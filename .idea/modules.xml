@@ -3,7 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day10-oop-app1/day10-oop-app1.iml" filepath="$PROJECT_DIR$/day10-oop-app1/day10-oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-oop/day11-oop.iml" filepath="$PROJECT_DIR$/day11-oop/day11-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-oop/day12-oop.iml" filepath="$PROJECT_DIR$/day12-oop/day12-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-oop/day13-oop.iml" filepath="$PROJECT_DIR$/day13-oop/day13-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-api/day14-api.iml" filepath="$PROJECT_DIR$/day14-api/day14-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-algorithm/day15-algorithm.iml" filepath="$PROJECT_DIR$/day15-algorithm/day15-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16-collection/day16-collection.iml" filepath="$PROJECT_DIR$/day16-collection/day16-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17-stream/day17-stream.iml" filepath="$PROJECT_DIR$/day17-stream/day17-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18-Test/day18-Test.iml" filepath="$PROJECT_DIR$/day18-Test/day18-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19-thread/day19-thread.iml" filepath="$PROJECT_DIR$/day19-thread/day19-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/day2-basic-app/day2-basic-app.iml" filepath="$PROJECT_DIR$/day2-basic-app/day2-basic-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20-net/day20-net.iml" filepath="$PROJECT_DIR$/day20-net/day20-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21-junit-reflect-annotation-proxy/day21-junit-reflect-annotation-proxy.iml" filepath="$PROJECT_DIR$/day21-junit-reflect-annotation-proxy/day21-junit-reflect-annotation-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22-final/day22-final.iml" filepath="$PROJECT_DIR$/day22-final/day22-final.iml" />
       <module fileurl="file://$PROJECT_DIR$/day3-flow-control-app/day3-flow-control-app.iml" filepath="$PROJECT_DIR$/day3-flow-control-app/day3-flow-control-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day4-array-app/day4-array-app.iml" filepath="$PROJECT_DIR$/day4-array-app/day4-array-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day5-method-app/day5-method-app.iml" filepath="$PROJECT_DIR$/day5-method-app/day5-method-app.iml" />
